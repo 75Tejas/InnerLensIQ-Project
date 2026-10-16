@@ -53,42 +53,43 @@ The four areas cover wellbeing and emotions, discipline and growth, connection a
 
 The demonstration follows the user journey from the landing page to questionnaire completion, result interpretation and report download. Fictional responses are used for demonstration so that participant records are not exposed.
 
-<!-- VIDEO: After uploading your recording, insert its link below. -->
-<!-- Example, only after the file exists:
-[Watch the application walkthrough](assets/demo/innerlensiq-demo.mp4)
--->
+
+
+https://github.com/user-attachments/assets/e60217ee-309f-46cf-985b-ceaf8d65db15
+
+
 
 ### Landing page
 
 A concise introduction, clear entry points and an optional fictional demonstration help users understand where to begin.
 
-<!-- SCREENSHOT: Uncomment after uploading your image; adjust the path if needed.
+
 ![InnerLensIQ landing page](assets/screenshots/home.png)
--->
+
 
 ### Guided questionnaire
 
 The questionnaire presents one area at a time. Answers begin unselected, progress is visible and missing responses are checked before continuing.
 
-<!-- SCREENSHOT: Uncomment after uploading your image; adjust the path if needed.
+
 ![Guided questionnaire and progress tracking](assets/screenshots/questionnaire.png)
--->
+
 
 ### Reflection snapshot
 
 The results view presents four response summaries, explanatory charts, a separate experimental model result and optional next steps.
 
-<!-- SCREENSHOT: Uncomment after uploading your image; adjust the path if needed.
+
 ![Reflection summaries and results](assets/screenshots/results.png)
--->
+
 
 ### Research studio
 
 The research view separates real-data evaluation from synthetic demonstrations and explains the limits of the available evidence.
 
-<!-- SCREENSHOT: Uncomment after uploading your image; adjust the path if needed.
+
 ![Research studio and evaluation overview](assets/screenshots/research.png)
--->
+
 
 ## Key features
 
