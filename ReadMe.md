@@ -91,7 +91,7 @@ The research view separates real-data evaluation from synthetic demonstrations a
 
 ## Result
 
-![Result](assets/screenshots/Result.png)
+![Result](assets/screenshots/Result.jpeg)
 
 
 
